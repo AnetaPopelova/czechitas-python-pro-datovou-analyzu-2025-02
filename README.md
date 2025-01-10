@@ -1,0 +1,1 @@
+# czechitas-python-pro-datovou-analyzu-2025-02
