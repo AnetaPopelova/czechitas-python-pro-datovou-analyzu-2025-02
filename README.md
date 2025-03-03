@@ -12,5 +12,5 @@ Kurz je zaměřen na efektivní práci s daty pomocí knihovny `Pandas` a dalš�
 | 10.2.2025  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | [Kvíz 2](https://forms.gle/fX6i9wftqSMQyiFU7)|
 | 17.2.2025  | Propojování tabulek, agregace dat a řazení                    | [Materiály lekce 3](notebooks/lekce-03) | [Kvíz 3](https://forms.gle/Uz4wKjFQCy2hBpvP7) |
 | 24.2.2025  | Pivot tabulky, datum a čas, metoda `shift                     | [Materiály lekce 4](notebooks/lekce-04) | [Kvíz 4](https://forms.gle/Z3Uz3z79Dd6vcHg9A)|
-| 3.3.2025   | Vizualizace s využitím knihovny `seaborn`                     | [Materiály lekce 5](notebooks/lekce-05) | |
+| 3.3.2025   | Vizualizace s využitím knihovny `seaborn`                     | [Materiály lekce 5](notebooks/lekce-05) | [Kvíz 5](https://forms.gle/CD3cMJgAzvExE1Ur7)|
 | 10.3.2025  | Datová analýza s využitím AI nástrojů                         | [Materiály lekce 6](notebooks/lekce-06) | nebude|
